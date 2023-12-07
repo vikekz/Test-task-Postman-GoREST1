@@ -1,2 +1,2 @@
-### Collection for the test task (**[GoogleDrive Document](https://docs.google.com/document/d/1_jFKhrhwVasQwCY-VFjtKIPqQ9_Z8uSIoWwe9sGp50o/edit?usp=sharing)**)
+### A test task to check Postman-skills (**[GoogleDrive Document](https://docs.google.com/document/d/1_jFKhrhwVasQwCY-VFjtKIPqQ9_Z8uSIoWwe9sGp50o/edit?usp=sharing)**)
 ### **[Link](https://www.postman.com/orbital-module-observer-93437619/workspace/test-workspace/collection/20317533-b02ef1b3-77be-4c59-9247-f27021c8e09a?action=share&creator=20317533&active-environment=20317533-b12a5f02-8c44-46b1-8389-c8013c32ff77)** to Postman collection on workspace
